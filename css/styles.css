@@ -186,6 +186,25 @@ color: #404bbf;
     font-size: 16px;
     text-align: center;
 }
+.sub-header-portfolio {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    margin-bottom: 8px;
+    border-radius: 0px 0px 4px 4px;
+    margin-bottom: 8px;
+    align-items: justify;
+    text-align: justify;
+}
+.sub-desk-portfolio {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    font-size: 16px;
+    text-align: justify;
+}
 .content-desc {
     font-family: 'Roboto', sans-serif;
     font-size: 36px;
